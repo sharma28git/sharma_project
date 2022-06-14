@@ -1,0 +1,83 @@
+body{
+    background-color: grey;
+    background-image: url("360_.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    
+}
+
+#locate{
+    color: orangered;
+    display: flexbox;
+    float: right;
+    padding-bottom: 25px;
+    font-size: 25px;
+}
+.foot{
+    padding-left: 145px;
+    background-color: black;
+    color: white;
+    height: 120px;
+    font-size: 20px;
+    margin: auto;
+}
+.header{
+    display: block;
+    padding: 1px;
+    margin: auto;
+    height: 30px;
+}
+.same{
+    padding-left: 10%;
+    padding-top: 305px;
+
+}
+.same1{
+    padding-left: 10%;
+}
+.same2{
+    padding-left: 10%;
+}
+.same3{
+    padding-left: 10%;
+}
+.same4{
+    padding-left: 10%;
+}
+.para1{
+    color: aqua;
+    float: left;
+    font-size: 40px;
+}
+.logo{
+    width: 4%;
+    height: 150%;
+    border-radius: 2px;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-top: 0%;
+}
+.nav{
+    display: block;
+    float: right;
+    font-size: 25px;
+    color: navy;
+    padding-right: 25px;
+    padding-top: 0%;
+    padding-bottom: 2px;
+    overflow: hidden;
+}
+.search{
+    text-align: center;
+    display: block;
+    float: right;
+    
+}
+#heading{
+    text-align: center;
+    font-size: 100px;
+    color: yellow;
+    padding: 2px;
+    margin: 2px;
+}
